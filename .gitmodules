@@ -1,4 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/anespinosa/anespinosa.r-universe.dev
 	branch = HEAD
+[submodule "classicnets"]
+	path = classicnets
+	url = https://github.com/anespinosa/classicnets
+[submodule "netmem"]
+	path = netmem
+	url = https://github.com/anespinosa/netmem
